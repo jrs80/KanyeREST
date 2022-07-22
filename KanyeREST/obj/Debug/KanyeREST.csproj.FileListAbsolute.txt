@@ -1,0 +1,11 @@
+C:\Git_Repos\KanyeREST\KanyeREST\obj\Debug\KanyeREST.csproj.AssemblyReference.cache
+C:\Git_Repos\KanyeREST\KanyeREST\obj\Debug\KanyeREST.csproj.SuggestedBindingRedirects.cache
+C:\Git_Repos\KanyeREST\KanyeREST\obj\Debug\KanyeREST.csproj.CoreCompileInputs.cache
+C:\Git_Repos\KanyeREST\KanyeREST\bin\Debug\KanyeREST.exe.config
+C:\Git_Repos\KanyeREST\KanyeREST\bin\Debug\KanyeREST.exe
+C:\Git_Repos\KanyeREST\KanyeREST\bin\Debug\KanyeREST.pdb
+C:\Git_Repos\KanyeREST\KanyeREST\bin\Debug\Newtonsoft.Json.dll
+C:\Git_Repos\KanyeREST\KanyeREST\bin\Debug\Newtonsoft.Json.xml
+C:\Git_Repos\KanyeREST\KanyeREST\obj\Debug\KanyeREST.csproj.CopyComplete
+C:\Git_Repos\KanyeREST\KanyeREST\obj\Debug\KanyeREST.exe
+C:\Git_Repos\KanyeREST\KanyeREST\obj\Debug\KanyeREST.pdb
